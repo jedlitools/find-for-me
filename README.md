@@ -47,7 +47,7 @@ Towards the Center": https://www.islamic-empire.uni-hamburg.de/.
 Licencing
 ---------
 
-Please see the file called LICENCE.
+Please see the file called LICENSE.
 
 
 Development
