@@ -55,5 +55,13 @@ Development
 
 If you discover bugs in this code, or think there are ways 
 in which it could be improved, feel free to join this repository
-or contact the authors. For contact information, please see
-the file called LICENCE. 
+or contact the authors:
+
+Jose Haro Peralta:
+joseharoperalta@gmail.com
+jose.haro.peralta@uni-hamburg.de
+
+Peter Verinderen:
+peterverkinderen@gmail.com
+peter.verkinderen@uni-hamburg.de
+
