@@ -6,6 +6,8 @@ about these code samples
 These code samples are provided as an illustration for the
 article by José Haro Peralta and Peter Verkinderen, 
 "Find for me!: Building a context-based search tool using Python", 
+in Elias Muhanna, ed., The Digital Humanities and Islamic & Middle East Studies
+(http://www.degruyter.com/view/product/432146?rskey=cyn4eV).
 
 All code samples are reproduced and explained in the quoted article. 
 The files provided here are intended to help readers unfamiliarized
